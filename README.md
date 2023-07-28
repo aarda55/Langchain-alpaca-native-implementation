@@ -8,6 +8,6 @@ Simply copying this notebook let's you directly start exploring the world of pro
 
 -----------------------------------------------------------------------------
 
-Credit: 
+# Credit: 
 
 redmond.ai for donating the fine-tuned weights for this model
